@@ -1,3 +1,5 @@
+<p align="center"><img src=".github/hero.svg" alt="deeplive" width="880"></p>
+
 <h1 align="center">Deep-Live-Cam</h1>
 
 <p align="center">
