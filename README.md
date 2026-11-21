@@ -2,6 +2,8 @@
 
 <h1 align="center">Deep-Live-Cam</h1>
 
+[![Open in Hanzo](https://hanzo.app/badges/open-in-hanzo.svg)](https://hanzo.app/dev/open?repo=github.com/hanzoai/deeplive&ref=main&action=open) [![Edit with Hanzo](https://hanzo.app/badges/edit-with-hanzo.svg)](https://hanzo.app/dev/open?repo=github.com/hanzoai/deeplive&ref=main&action=edit)
+
 <p align="center">
   Real-time face swap and video deepfake with a single click and only a single image.
 </p>
